@@ -17,8 +17,11 @@ enum class Player {
 ```
 
 **Player:** este un tip de date enumerat care reprezintă starea fiecărei poziții pe tabla de joc și identifică jucătorii.
+
 **None:** Reprezintă o poziție liberă pe tabla de joc, care nu este ocupată de niciun jucător.
+
 **X:** Reprezintă jucătorul care utilizează simbolul X.
+
 **O:** Reprezintă jucătorul care utilizează simbolul O.
 
 ```
